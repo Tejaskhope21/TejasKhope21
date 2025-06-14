@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Tejas Khope</h1>
-<h3 align="center">Full-Stack Developer | Cloud Enthusiast | Open Source Contributor</h3>
+<h1 align="center">👋 Hi, I'm Tejas Khope</h1>
+<h3 align="center">💻 Full-Stack Developer | ☁️ Cloud Enthusiast | 🚀 Open Source Contributor</h3>
 
 <p align="center">
   <a href="mailto:tejaskhope600@gmail.com"><img src="https://img.shields.io/badge/Email-tejaskhope600@gmail.com-blue?style=flat-square&logo=gmail"></a>
@@ -11,11 +11,11 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on scalable B2B/B2C web apps
-- 🌱 I’m deepening my skills in MERN Stack & Cloud Architecture
+- 🔭 I’m currently working on scalable **B2B/B2C web apps**
+- 🌱 Learning deeper into **MERN Stack** & **Cloud Architecture**
 - 💬 Ask me about **React**, **MongoDB**, **Express**, **JWT**, and **Google Cloud**
-- 🏆 Actively contributing to open-source and hackathons
-- 📫 Reach me: **tejaskhope600@gmail.com**
+- 🏆 Contributing to **open-source**, participating in **hackathons**
+- 📫 Reach me: [**tejaskhope600@gmail.com**](mailto:tejaskhope600@gmail.com)
 
 ---
 
@@ -27,21 +27,22 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-
-
 ### 🏅 Certifications
 
-- ✅ [Programming with Java (Google Drive)](https://drive.google.com/file/d/1nNxxKwL0hnGJFRZtNb0zskKfSg5X7Ttx/view)
-- ✅ [Build a Secure Network in Google Cloud (Credly)](https://www.credly.com/badges/0a8a9ea4-3fd0-4749-9202-6c34105c0900)
-- ✅ [GCP Cloud Architecture Skill Badge (Credly)](https://www.credly.com/badges/f4020168-f3d1-4841-b859-d34120d64e40)
-- ✅ [Cloud Architecture: Design, Implement, and Manage (Credly)](https://www.credly.com/badges/fcbef34e-b8de-4b1f-8df9-080c04f669d8)
-- ✅ [Build Infrastructure with Terraform on Google Cloud (Credly)](https://www.credly.com/badges/fcbef34e-b8de-4b1f-8df9-080c04f669d8)
-
+- 📜 [Programming with Java (Google Drive)](https://drive.google.com/file/d/1nNxxKwL0hnGJFRZtNb0zskKfSg5X7Ttx/view)
+- 🔐 [Build a Secure Network in Google Cloud (Credly)](https://www.credly.com/badges/0a8a9ea4-3fd0-4749-9202-6c34105c0900)
+- ☁️ [GCP Cloud Architecture Skill Badge (Credly)](https://www.credly.com/badges/f4020168-f3d1-4841-b859-d34120d64e40)
+- 🏗️ [Cloud Architecture: Design, Implement, and Manage (Credly)](https://www.credly.com/badges/fcbef34e-b8de-4b1f-8df9-080c04f669d8)
+- 🛠️ [Build Infrastructure with Terraform on Google Cloud (Credly)](https://www.credly.com/badges/fcbef34e-b8de-4b1f-8df9-080c04f669d8)
 
 ---
 
@@ -72,4 +73,8 @@
 
 ### 🙌 Let’s Connect!
 
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/tejas-khope-7124a2287/) or drop me an [email](mailto:tejaskhope600@gmail.com). I'm always up for collaboration and learning opportunities!
+📬 **Email:** [tejaskhope600@gmail.com](mailto:tejaskhope600@gmail.com)  
+🔗 **LinkedIn:** [Tejas Khope](https://www.linkedin.com/in/tejas-khope-7124a2287/)  
+🐙 **GitHub:** [Tejaskhope21](https://github.com/Tejaskhope21)
+
+---
